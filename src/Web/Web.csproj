@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>Microsoft.eShopWeb.Web</RootNamespace>
+    <RootNamespace>EMIS.Internal.Travel.Web</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

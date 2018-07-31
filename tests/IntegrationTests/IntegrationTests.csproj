@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>Microsoft.eShopWeb.IntegrationTests</RootNamespace>
+    <RootNamespace>EMIS.Internal.Travel.IntegrationTests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
